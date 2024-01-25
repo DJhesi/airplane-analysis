@@ -10,8 +10,6 @@ This project analyzes the risks associated with specific make and model aircraft
 
 ## Business Problem
 
-![img](./images/animals.png)
-
 Our company is embarking on establishing a new flight school, with a primary focus on ensuring the safety of our students and bringing up a new generation of pilots. Our business will be broken into two stages for our students. First, the instructional phase where students will learn how to fly with instructor assistance. Second, the rental phase where after completing stage 1, students will be able to rent planes to log solo flight hours to gain their pilot's license. To make informed decisions about the selection of aircraft for our training and rental fleet, we need a clear and visually insightful way to compare the safety records of different aircraft models.
 
 We will specifically investigate the most commonly used aircraft in flight schools. According to the [Pilot Institute](https://pilotinstitute.com/flight-school-aircraft/) and the [Aircraft Owners and Pilots Association](https://www.aopa.org/training-and-safety/learn-to-fly/flying-for-fun/choose-where-to-train/training-aircraft-review#:~:text=Cessna%20172%3A%20The%20Cessna%20172,%2Dinjected%20four%2Dcylinder%20engines.), the top aircraft make and models used in flight school are the Cessna 172, Piper PA-28 Cherokee, Cessna 150, and Cessna 152.
