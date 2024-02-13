@@ -79,7 +79,7 @@ Further analyses could yield additional insights to how we can further improve o
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./flight_school_plane_analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./flight_school_plane_analysis.ipynb) or review this [presentation](./flight_school_plane_analysis_presentation.pdf).
 
 ## Repository Structure
 
